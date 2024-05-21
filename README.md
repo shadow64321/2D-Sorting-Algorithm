@@ -1,6 +1,8 @@
 # 2D-Sorting-Algorithm
 This program creates cool looking graphics using a cool little sorting algorithm I accidently made. I hope you enjoy it as much as I did making it! 😅
 
+___
+
 If your on linux I highly recommend running:
 ```
 ./Cool-Square-Patterns | lolcat
