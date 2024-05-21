@@ -3,7 +3,7 @@ This program creates cool looking graphics using a cool little sorting algorithm
 
 ___
 
-If your on linux I highly recommend running:
+## If your on linux I highly recommend running:
 ```
 ./Cool-Square-Patterns | lolcat
 ```
