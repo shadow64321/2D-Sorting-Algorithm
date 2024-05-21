@@ -6,7 +6,7 @@ If your on linux I highly recommend running:
 ./Cool-Square-Patterns | lolcat
 ```
 
-
+___
 
 I'll try and patch the bugs later and maybe compile for windows
 
