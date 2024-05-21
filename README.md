@@ -6,4 +6,4 @@ I was messing around with making a terminal based 2D cellular automata and was r
 It absolutely facinated my so I decided to post it here so others could enjoy it.
 
 # Image Gallery
-![1](screenshots/1.png)  
+![1](2D-Sorting-Algorithm/screenshots/1.png)  
