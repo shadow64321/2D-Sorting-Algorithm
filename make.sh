@@ -2,4 +2,5 @@
 FILENAME="Cool-Square-Patterns"
 
 rm $FILENAME
-g++ cool-square-patterns.c -o $FILENAME
+gcc cool-square-patterns.c -o $FILENAME
+# gcc cool-square-patterns.c -o $FILENAME.exe

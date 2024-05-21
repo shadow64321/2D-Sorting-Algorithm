@@ -4,6 +4,8 @@
 #include <time.h>
 
 // Global Variables
+
+//      row / column
 char GRID[10][10];
 const int GRID_SIZE = sizeof(GRID)/sizeof(GRID[0]);
 
