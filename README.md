@@ -10,7 +10,23 @@ ___
 
 ___
 
-I'll try and patch the bugs later and maybe compile for windows
+# Modifying the Output
+
+If you wish to modify the array size things can get a little buggy but when it works it is worth it.
+
+## How To
+### Linux
+1. in make.sh comment out the compiling opton for windows
+2. in the cool-square-patterns.c file change the array size
+```c
+//      row / column
+char GRID[10][50];
+```
+
+
+___
+
+## I'll try and patch the bugs later
 
 
 # Storytime
