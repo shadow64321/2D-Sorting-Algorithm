@@ -2,9 +2,8 @@
 This program creates cool looking graphics using a cool little sorting algorithm I accidently made. I hope you enjoy it as much as I did making it! 😅
 
 If your on linux I highly recommend running:
-'''
-./Cool-Square-Patterns | lolcat
-'''
+'./Cool-Square-Patterns | lolcat'
+
 
 
 I'll try and patch the bugs later and maybe compile for windows
