@@ -1,5 +1,5 @@
 # 2D-Sorting-Algorithm
-This program creates cool looking graphics using a cool little sorting algorithm I accidently made. I hope you enjoy it as much as I did making it! :)
+This program creates cool looking graphics using a cool little sorting algorithm I accidently made. I hope you enjoy it as much as I did making it! 😅
 
 
 I'll try and patch the bugs later and maybe compile for windows
