@@ -18,6 +18,7 @@ If you wish to modify the array size things can get a little buggy but when it w
 ### Linux
 1. in make.sh comment out the compiling opton for windows
 2. in the cool-square-patterns.c file change the array size:
+
 in this example we change the row to 50 to create the big squares seen in image gallery
 ```c
 //      row / column
