@@ -1,5 +1,9 @@
 # 2D-Sorting-Algorithm
+This program creates cool looking graphics using a cool little sorting algorithm I accidently made. I hope you enjoy it as much as I did making it! : )
+
+
 I'll try and patch the bugs later and maybe compile for windows
+
 
 # Storytime
 I was messing around with making a terminal based 2D cellular automata and was running a test when I noticed that it was outputting a perfectly sorted array.
